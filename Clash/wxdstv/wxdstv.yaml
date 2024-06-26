@@ -1,0 +1,13 @@
+payload:
+  - PROCESS-NAME,studio.scillarium.ottnavigator
+  - DOMAIN-SUFFIX,mytvsuper.livednow.com
+  - DOMAIN-KEYWORD,edgeware
+  - DOMAIN-SUFFIX,z88.ubtvfans.com
+  - DOMAIN-KEYWORD,stream
+  - IP-CIDR,13.112.0.0/14,no-resolve
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,yang-1989.eu.org
+  - PROCESS-NAME,ar.tvplayer.tv
