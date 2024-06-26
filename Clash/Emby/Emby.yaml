@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,emby.nexitally.com
+  - DOMAIN-SUFFIX,emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,netcup-v4.emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,netcup-v6.emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,oracle-kr.emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,emby-us-v4.mius.uk
+  - DOMAIN-SUFFIX,emby-fr-v6.mius.uk
+  - PROCESS-NAME,com.mb.android
