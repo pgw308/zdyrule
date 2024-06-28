@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,studio.scillarium.ottnavigator
   - DOMAIN-SUFFIX,mytvsuper.livednow.com
+  - DOMAIN-KEYWORD,hk4-edge
   - DOMAIN-KEYWORD,edgeware
   - DOMAIN-SUFFIX,z88.ubtvfans.com
   - DOMAIN-KEYWORD,stream
