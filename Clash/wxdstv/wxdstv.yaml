@@ -1,11 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,mytvsuper.livednow.com
+  - DOMAIN-SUFFIX,yang-1989.eu.org
   - DOMAIN-KEYWORD,edgeware
-  - DOMAIN-SUFFIX,z88.ubtvfans.com
   - DOMAIN-KEYWORD,stream
-  - IP-CIDR,13.112.0.0/14,no-resolve
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,orz-7.com
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
-  - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,ofiii.com
-  - DOMAIN-SUFFIX,yang-1989.eu.org
+  - DOMAIN-SUFFIX,mytvsuper.com
