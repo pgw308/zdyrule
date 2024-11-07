@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,netcup-v6.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,oracle-kr.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,emby.bangumi.ca
   - DOMAIN-SUFFIX,shsiis.cloudfisher.cc
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk
   - DOMAIN-SUFFIX,emby-fr-v6.mius.uk
