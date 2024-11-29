@@ -21,4 +21,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.branch.io
   - DOMAIN-SUFFIX,api.apptentive.com
   - DOMAIN-SUFFIX,mobile-data.onetrust.io
+  - DOMAIN-SUFFIX,out053a3bejgh7t0phqa0csou.litix.io
+  - DOMAIN-SUFFIX,cdn-media.brightline.tv
   - PROCESS-NAME,com.wbd.stream
