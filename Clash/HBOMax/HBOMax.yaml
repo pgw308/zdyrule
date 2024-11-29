@@ -17,4 +17,7 @@ payload:
   - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,maxgo.com
+  - DOMAIN-SUFFIX,api2.branch.io
+  - DOMAIN-SUFFIX,cdn.branch.io
+  - DOMAIN-SUFFIX,api.apptentive.com
   - PROCESS-NAME,com.wbd.stream
