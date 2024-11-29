@@ -20,4 +20,5 @@ payload:
   - DOMAIN-SUFFIX,api2.branch.io
   - DOMAIN-SUFFIX,cdn.branch.io
   - DOMAIN-SUFFIX,api.apptentive.com
+  - DOMAIN-SUFFIX,mobile-data.onetrust.io
   - PROCESS-NAME,com.wbd.stream
