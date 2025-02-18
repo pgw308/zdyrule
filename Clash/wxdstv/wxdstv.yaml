@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
   - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,ofiii.com
   - DOMAIN-SUFFIX,mytvsuper.com
