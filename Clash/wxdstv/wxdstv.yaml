@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,tv.iill.top
-  - DOMAIN-KEYWORD,edgeware
   - DOMAIN-KEYWORD,stream
   - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,orz-7.com
@@ -11,9 +10,7 @@ payload:
   - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
   - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,ofiii.com
-  - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,thetvapp.to
-  - DOMAIN-SUFFIX,video.mytvsuper.xyz
   - DOMAIN-SUFFIX,ushls.ballbar.net
   - DOMAIN-SUFFIX,o11.141444.xyz
   - DOMAIN-SUFFIX,z88.ubtvfans.com
