@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "10101.io",
+        "plex.direct",
+        "plex.tv"
+      ]
+    },
+    {
+      "process_name": [
+        "com.plexapp.android"
+      ]
+    }
+  ],
+  "version": 1
+}
