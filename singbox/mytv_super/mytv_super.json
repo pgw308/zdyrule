@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "edgeware"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mytvsuper.com",
+        "video.mytvsuper.xyz"
+      ]
+    }
+  ],
+  "version": 1
+}
