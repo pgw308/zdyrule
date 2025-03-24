@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tv.iill.top",
+        "livednow.com",
+        "orz-7.com",
+        "4gtv.tv",
+        "hinet.net",
+        "cdn.hinet.net",
+        "akamaized.net",
+        "ofissaifreepc.akamaized.net",
+        "cdi.ofiii.com",
+        "ofiii.com",
+        "thetvapp.to",
+        "ushls.ballbar.net",
+        "o11.141444.xyz",
+        "z88.ubtvfans.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "stream"
+      ]
+    }
+  ],
+  "version": 1
+}
