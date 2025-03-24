@@ -1,0 +1,37 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "176868.cloud",
+        "276868.cloud",
+        "videos.web6868.com",
+        "newapp.tv6868.com",
+        "smoss.notesmoss.com",
+        "store.shipmodelnotes.store"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "online",
+        "web6868",
+        "scooterfurnish",
+        "shop",
+        "bicyclefurnishings",
+        "dash",
+        "cookery",
+        "cookeryvideo",
+        "website",
+        "vw6868",
+        "tv6868",
+        "linearjitp901",
+        "notescrassula"
+      ]
+    },
+    {
+      "process_name": [
+        "com.android.ethtv"
+      ]
+    }
+  ],
+  "version": 1
+}
