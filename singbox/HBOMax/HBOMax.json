@@ -1,0 +1,66 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "max.com",
+        "default.any-amer.prd.api.max.com",
+        "play.max.com",
+        "default.any-any.prd.api.max.com",
+        "telegraph.prd.api.max.com",
+        "default.beam-any.prd.api.max.com",
+        "default.beam-amer.prd.api.max.com",
+        "default.beam-amer.use.prd.api.max.com",
+        "events.prd.api.max.com",
+        "cinemax.com",
+        "discomax.com",
+        "h264.io",
+        "hbomax.com",
+        "hbomaxcdn.com",
+        "hbomaxdash.s.llnwi.net",
+        "hbonow.com",
+        "maxgo.com",
+        "api2.branch.io",
+        "cdn.branch.io",
+        "api.apptentive.com",
+        "mobile-data.onetrust.io",
+        "out053a3bejgh7t0phqa0csou.litix.io",
+        "cdn-media.brightline.tv",
+        "hbo.com",
+        "hboasia.com",
+        "hboasia1-i.akamaihd.net",
+        "hboasia2-i.akamaihd.net",
+        "hboasia3-i.akamaihd.net",
+        "hboasia4-i.akamaihd.net",
+        "hboasia5-i.akamaihd.net",
+        "hboasialive.akamaized.net",
+        "hbogo.co.th",
+        "hbogo.com",
+        "hbogo.eu",
+        "hbogoasia.com",
+        "hbogoasia.hk",
+        "hbogoasia.id",
+        "hbogoasia.ph",
+        "hbogoasia.sg",
+        "hbogoasia.tw",
+        "hbogoprod-vod.akamaized.net",
+        "now-ashare.com",
+        "now-tv.com",
+        "now.com.hk",
+        "nowe.com",
+        "nowe.hk"
+      ]
+    },
+    {
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.wbd.stream",
+        "com.hbo.hbonow"
+      ]
+    }
+  ],
+  "version": 1
+}
