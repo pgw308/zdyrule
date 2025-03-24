@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "emby.funmedia.10101.io",
+        "netcup-v4.emby.funmedia.10101.io",
+        "netcup-v6.emby.funmedia.10101.io",
+        "oracle-kr.emby.funmedia.10101.io",
+        "tanhuatv.site",
+        "789.123456.al",
+        "emby.bangumi.ca",
+        "shsiis.cloudfisher.cc",
+        "emby-us-v4.mius.uk",
+        "emby-fr-v6.mius.uk",
+        "emby.nexitally.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.mb.android",
+        "com.hush.yamby"
+      ]
+    }
+  ],
+  "version": 1
+}
