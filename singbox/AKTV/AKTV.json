@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aktv.top"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "aktv.top"
+      ]
+    }
+  ],
+  "version": 1
+}
