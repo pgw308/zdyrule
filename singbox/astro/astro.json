@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "linearjitp-playback.astro.com.my",
+        "linearjitp02-playback.astro.com.my"
+      ]
+    }
+  ],
+  "version": 1
+}
