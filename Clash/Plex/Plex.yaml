@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,sg.funmedia.domob.org
+  - DOMAIN-KEYWORD,funmedia
   - DOMAIN-SUFFIX,10101.io
   - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-SUFFIX,plex.tv
