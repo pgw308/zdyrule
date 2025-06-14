@@ -6,6 +6,13 @@ payload:
   - DOMAIN-KEYWORD,hinet
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+  - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
+  - DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,api2.4gtv.tv
+  - DOMAIN-KEYWORD,hamivideo
   - DOMAIN-SUFFIX,cdn.hinet.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
