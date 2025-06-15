@@ -1,7 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
+  - DOMAIN-SUFFIX,prod-1.143104.com
   - DOMAIN-SUFFIX,prod-2.143104.com
+  - DOMAIN-SUFFIX,prod-3.143104.com
+  - DOMAIN-SUFFIX,143104.com
+  - DOMAIN-KEYWORD,prod-
   - DOMAIN-SUFFIX,tiktok.shipmodelnotes.site
   - DOMAIN-SUFFIX,tiktok.shipmodelnotes.fun
   - DOMAIN-SUFFIX,tiktok.shipmodelnotes.store
