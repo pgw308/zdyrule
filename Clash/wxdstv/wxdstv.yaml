@@ -1,5 +1,4 @@
 payload:
-  - IP-CIDR,107.173.148.168/32
   - DOMAIN-SUFFIX,tv.iill.top
   - DOMAIN-SUFFIX,livednow.com
   - DOMAIN-SUFFIX,orz-7.com
