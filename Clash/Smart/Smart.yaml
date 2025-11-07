@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,iptv.catvod.com
   - DOMAIN-SUFFIX,live.catvod.com
+  - DOMAIN-SUFFIX,5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev
   - DOMAIN-SUFFIX,smt.520761.xyz
   - IP-CIDR,223.18.103.169/32
   - DOMAIN-SUFFIX,smart.pendy.dpdns.org
