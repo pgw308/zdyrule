@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,netcup-v4.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,netcup-v6.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,oracle-kr.emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,cf.imetyou.top
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,789.123456.al
   - DOMAIN-SUFFIX,emby.bangumi.ca
