@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,live-edge-02.stream-link.org
+  - DOMAIN-SUFFIX,sc2026.stream-link.org
   - DOMAIN-SUFFIX,s1.m16tv.cfd
   - DOMAIN-SUFFIX,s2.m16tv.cfd
   - DOMAIN-SUFFIX,aktv.top
