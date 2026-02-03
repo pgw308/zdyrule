@@ -31,4 +31,5 @@ payload:
   - DOMAIN-SUFFIX,newapp.tv6868.com
   - DOMAIN-SUFFIX,smoss.notesmoss.com
   - DOMAIN-SUFFIX,store.shipmodelnotes.store
+  - DOMAIN-SUFFIX,api.ip.sb
   - PROCESS-NAME,com.android.ethtv
