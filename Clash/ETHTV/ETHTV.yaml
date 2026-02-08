@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
+  - DOMAIN-KEYWORD,epithelialcellrobots
+  - DOMAIN-KEYWORD,listbooks
   - DOMAIN-SUFFIX,cloud.listbooks.site
   - DOMAIN-SUFFIX,cloud.epithelialcellrobots.store
   - DOMAIN-SUFFIX,prod-1.143104.com
