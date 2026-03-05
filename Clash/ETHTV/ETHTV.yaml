@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,inteltelevision.com
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
+  - DOMAIN-KEYWORD,greennowday
+  - DOMAIN-SUFFIX,greennowday.store
   - DOMAIN-KEYWORD,epithelialcellrobots
   - DOMAIN-KEYWORD,listbooks
   - DOMAIN-SUFFIX,cloud.listbooks.site
