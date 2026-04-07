@@ -1,4 +1,5 @@
 payload:
+  - IP-CIDR,66.90.99.154/32
   - DOMAIN-SUFFIX,smt.1678520.xyz
   - DOMAIN-SUFFIX,smt.goiptv.us.ci
   - DOMAIN-SUFFIX,smart.946985.filegear-sg.me
