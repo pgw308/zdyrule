@@ -1,5 +1,4 @@
 payload:
-
   - IP-CIDR,66.90.99.154/32
   - IP-CIDR,50.7.38.210/32
   - DOMAIN-SUFFIX,smt.1678520.xyz
