@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,emby.funmedia.10101.io
+  - DOMAIN-SUFFIX,emby.auto.funmedia.stream
   - DOMAIN-SUFFIX,netcup-v4.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,netcup-v6.emby.funmedia.10101.io
   - DOMAIN-SUFFIX,oracle-kr.emby.funmedia.10101.io
